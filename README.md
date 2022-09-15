@@ -10,7 +10,7 @@ This is mostly a copy of the work that [Joepool](https://github.com/joepool) did
 
 - Hewlett Packard Z420 Workstation
 - Intel Xeon E5-1650v2
-- Gigabyte RX420
+- AMD Radeon RX 480 (Gigabyte G1 Gaming 8GB)
 - 128GB ECC DDR3 (8x16GB)
 - Logitech USB Bluetooth Adapter
 
