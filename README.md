@@ -12,6 +12,7 @@ This is mostly a copy of the work that [Joepool](https://github.com/joepool) did
 - Intel Xeon E5-1650v2
 - Gigabyte RX420
 - 128GB ECC DDR3 (8x16GB)
+- Logitech USB Bluetooth Adapter
 
 # References
 
