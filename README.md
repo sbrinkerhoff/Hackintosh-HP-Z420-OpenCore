@@ -2,6 +2,8 @@
 
 # Summary
 
+![](/docs/about_this_mac_current.png)
+
 This is mostly a copy of the work that [Joepool](https://github.com/joepool) did with their [Hackintosh-HP-Z420-OpenCore](https://github.com/joepool/Hackintosh-HP-Z420-OpenCore) repo.  
 
 # System Configuration
